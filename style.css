@@ -1,0 +1,212 @@
+body {
+background-color: #001b31;
+font-size: 15px;
+font-family: 'Asap', sans-serif;
+margin: auto;
+}
+header {
+background: url("pictures/header-background.png") no-repeat, center;
+height: 125px;
+background-size: 100%;
+}
+#logo {
+font-family: 'Oleo Script', cursive;
+font-size: 50px;
+padding: 25px 0px 0px 250px;
+}
+#logo1, #menu, #button {
+color: white;
+text-decoration: none;
+}
+#menu {
+color: white;
+text-decoration: none;
+}
+#menu:hover {
+color: #5e6162;
+}
+#rgrs {
+display: inline;
+}
+#button:hover {
+color: #5e6162;
+}
+a {
+font-family: 'Oleo Script', cursive;
+}
+a:hover {
+color: #5e6162;
+}
+nav {
+margin: 6.6% 0 0 58%;
+}
+#rgr {
+display: inline;
+padding-right: 64px;
+}
+nav ul #rgr:after {
+content: "|";
+padding-left: 30px;
+margin-right: -30px;
+color: black;
+font-size: 10px;
+}
+#socialnetwork {
+display: flex;
+margin: -5.7% 86.5%;
+}
+#teg, #teg1{
+padding-right: 8px;
+}
+#photos, #photos1 {
+display: flex;
+justify-content: center;/*Выравнивание*/
+overflow: hidden;
+}
+#salute {
+text-align: center;
+color: white;
+}
+#hello {
+font-size: 30px;
+font-family: 'Oleo Script', cursive;
+line-height: 0; /* устанавливает величину пространства между строками*/
+padding-top: 15px;
+}
+#afterhi {
+font-family: 'Asap';
+font-size: 20px;
+font-weight: 500; /* начертание шрифта */
+margin-bottom: 2.5%;
+}
+.information {
+background-color: #00325b;
+color: white;
+height: 250px;
+width: 1000px;
+display: flex;
+padding-left: 200px;
+margin: auto;
+}
+#pic1 {
+margin: 3% 1% 0 -19%;
+}
+#pic2 {
+margin: 3% 1% 0 3%;
+}
+#pic3 {
+margin: 3% 1% 0 0%;
+}
+#info, #info1, #info2 {
+margin-top: 1.5%;
+}
+#button :hover {
+color: #5e6162;
+}
+.welcome {
+color: white;
+margin: auto;
+margin-left: 10.5%;
+font-size: 14px;
+}
+.news {
+line-height: 120%;
+color: white;
+margin: auto;
+margin-left: -3.5%;
+font-size: 14px;
+margin-top: 0.9%;
+border-left: 2px solid #172f43;
+border-right: 2px solid #172f43;
+padding-right: 70px;
+padding-left: 60px;
+}
+.reviews {
+color: white;
+margin: auto;
+margin-left: -2.5%;
+font-size: 14px;
+}
+#reviewblock1, #reviewblock2, #reviewblock3 {
+display: flex;
+margin-bottom: 5%;
+}
+#rtr {
+padding-right: 5%;
+}
+.button1 {
+color: white;
+text-decoration: none;
+background-color: #02a7f5;
+padding: 3px 18px;
+font-size: 14px;
+width: 6%;
+font-family: 'Asap', sans-serif;
+}
+#ura {
+color: #02a7f5;
+text-decoration: none;
+}
+.boss {
+display: flex;
+margin-top: 3%;
+margin-bottom: 6%;
+}
+.footer {
+background-image: url(pictures/header-background.png);
+display: flex;
+height: 125px;
+color: white;
+}
+#footmenu {
+display: flex;
+margin: 1.2% 0% 0% 45%;
+}
+#opo, #opop{
+margin: 24% 17% 0% 0%;
+}
+#popit {
+margin: 3.5% 0% 0% 10.5%;
+}
+#lop {
+text-decoration: none;
+color: white;
+font-family: 'Asap', sans-serif;
+font-size: 11px;
+}
+#opop {
+list-style: none;
+}
+#lop:hover {
+color: #5e6162;
+}
+#gtg {
+margin-left: 18%;
+margin-top: -1%;
+}
+#toper {
+font-family: 'Oleo Script';
+font-size: 25px;
+font-weight: normal;
+margin-top: 5%;
+}
+#plot {
+text-transform: uppercase; /**Заглавный, маленький**/
+}
+#epp {
+text-transform: uppercase;
+font-size: 13px;
+}
+#oiker1, #oiker2 {
+background-color: #02a7f5;
+background-image: url(pictures/car_left.png);
+width: 30px;
+height: 28px;
+margin-right: 8px;
+}
+#oiker2 {
+    background-image: url(pictures/car_right.png);
+}
+#oiker {
+display: flex;
+}
